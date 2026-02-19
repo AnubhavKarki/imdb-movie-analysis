@@ -43,4 +43,4 @@ This project is ideal for those revisiting foundational statistical concepts and
 
 You can find the code and documentation at:
 
-[https://github.com/AnubhavKarki/imdb-movie-stats](https://github.com/AnubhavKarki/imdb-movie-stats)
+[https://github.com/AnubhavKarki/imdb-movie-analysis](https://github.com/AnubhavKarki/imdb-movie-analysis)
