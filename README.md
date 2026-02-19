@@ -15,7 +15,7 @@ This project is a concise refresher on descriptive and inferential statistics us
 
 2. **Exploratory Data Analysis (EDA)**
 
-   * Summary statistics using `describe()`.
+   * Summary statistics.
    * Visualized distributions and trends with histograms, boxplots, and heatmaps.
    * Identified top directors by average IMDB rating.
 
